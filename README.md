@@ -1,7 +1,7 @@
-<div align="center">
+
 # Machine_learning_in_python
 Guia do desenvolvedor machine learning / deep learning em python
-</div>
+
 ## Getting started
 
 ![Tutorial][tutorial]
